@@ -2,7 +2,7 @@
 
 ## Task 1
 
-### Target Variable
+### Label (Target Variable)
 
 repeat_purchase_flag
 
